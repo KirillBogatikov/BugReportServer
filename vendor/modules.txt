@@ -1,0 +1,14 @@
+# github.com/KirillBogatikov/Cuba v1.1.0-SNAPSHOT
+github.com/KirillBogatikov/Cuba/log/go
+github.com/KirillBogatikov/Cuba/log/go/common
+github.com/KirillBogatikov/Cuba/log/go/fmt
+# github.com/Syfaro/telegram-bot-api v4.6.4+incompatible
+github.com/Syfaro/telegram-bot-api
+# github.com/gorilla/mux v1.7.4
+github.com/gorilla/mux
+# github.com/lib/pq v1.3.0
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/technoweenie/multipartstreamer v1.0.1
+github.com/technoweenie/multipartstreamer

@@ -3,6 +3,7 @@ module server
 go 1.13
 
 require (
+	github.com/KirillBogatikov/Cuba v1.1.0-SNAPSHOT
 	github.com/Syfaro/telegram-bot-api v4.6.4+incompatible
 	github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible // indirect
 	github.com/gorilla/mux v1.7.4
